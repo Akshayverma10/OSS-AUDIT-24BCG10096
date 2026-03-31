@@ -2,7 +2,7 @@
 
 # ==========================================
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name]
+# Author: [Akshay Verma]
 # Description:
 # Checks important Linux directories
 # Shows permissions and disk usage
