@@ -2,7 +2,7 @@
 
 # ==========================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name]
+# Author: [Akshay Verma]
 # Description:
 # Checks if a package is installed in Kali Linux
 # Displays version, license, and summary
