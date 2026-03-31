@@ -2,7 +2,7 @@
 
 # ==========================================
 # Script 4: Log File Analyzer
-# Author: [Your Name]
+# Author: [Akshay Verma]
 # Description:
 # Reads a log file and counts occurrences
 # of a keyword such as "error"
