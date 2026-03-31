@@ -2,7 +2,7 @@
 
 # ==========================================
 # Script 5: Open Source Manifesto Generator
-# Author: [Your Name]
+# Author: [Akshay Verma]
 # Description:
 # Generates a personalized open source
 # philosophy statement and saves to file
